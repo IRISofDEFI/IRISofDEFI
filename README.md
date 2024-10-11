@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IRISofDEFI
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning html & css
+- 👀 I’m interested in blockchain development
+- 🌱 I’m currently solidity
 - 💞️ I’m looking to collaborate on with other developers
 - 📫 How to reach me on X @IRIs_of_Defi
 - 😄 Pronouns: ...She
