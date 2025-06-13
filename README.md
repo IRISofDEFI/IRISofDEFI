@@ -5,7 +5,7 @@
 - *Blockchain Development:* Solidity, Hardhat, Foundry
 - *Frontend Development:* Next.js, TypeScript, TailwindCSS, ReactJS
 - *Developer Tools:* WalletConnect, AppKit, Coinbase Developer Platform.
-- *Other:* Node.js, Jest, Web3.js, ethers.js
+- *Other:* Node.js, Jest, Web3.js, ethers.js (In progress......)
 
 
 ---
